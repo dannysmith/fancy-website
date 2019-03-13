@@ -43,3 +43,7 @@ This is a fancy HTML website.
   ,'        ''','',',','','''WWWWW::::''
    ':,,,,,,,':  :  : : :  :  :WWWW'''
 ```
+
+## Copyright
+
+This project is (c) Copyright 2019 Danny smith. All Rights reserved.
