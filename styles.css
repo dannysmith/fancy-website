@@ -4,8 +4,35 @@ body {
   margin: 0 auto;
 }
 
+section {
+	border-bottom: 1px solid #f3f3f3;
+}
+
+section.header {
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: column wrap;
+}
+
+h1 {
+	font-size: 3rem;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h1, h2 {
+	text-align: center;
+
+}
+
 p {
   line-height: 1.5;
+  text-align: center;
 }
 
 .header {
