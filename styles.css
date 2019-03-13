@@ -2,6 +2,7 @@ body {
   font-family: sans-serif;
   max-width: 1000px;
   margin: 0 auto;
+  background: red;
 }
 
 section {
@@ -38,7 +39,7 @@ p {
 }
 
 .header {
-  background: goldenrod;
+  background: yellow;
 }
 
 .site-footer {
